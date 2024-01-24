@@ -1,0 +1,3 @@
+  while (true) {
+ System.out.println("\nCommands:\n1. commit <message>\n2. 
+branch <new_branch>\n3. checkout <branch>\n4. print\n5. exit");
